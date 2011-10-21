@@ -1,3 +1,1 @@
-Parser = objectThatDelegatesTo(OMeta, {
-})
-
+Parser = objectThatDelegatesTo(OMeta, {});
